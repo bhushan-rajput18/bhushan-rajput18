@@ -36,8 +36,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
 <h2 align="center">🚀 Featured Projects</h2>
 
 <table>
@@ -54,7 +52,7 @@ AI-powered farming assistant for banana farmers.
 Marathi chatbot • Voice Assistant • Disease Detection
 </p>
 
-<a href="https://github.com/bhushan-rajput18/KrushiVani">
+<a href="https://krushivani.onrender.com/">
 <img src="https://img.shields.io/badge/View_Project-2EA44F?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -72,7 +70,7 @@ A web application inspired by Airbnb for exploring property listings.
 Property Listings • User Authentication • Web Development
 </p>
 
-<a href="https://github.com/bhushan-rajput18/majorProject">
+<a href="https://air-bnb-clone-xbgd.onrender.com/">
 <img src="https://img.shields.io/badge/View_Project-2EA44F?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -80,37 +78,16 @@ Property Listings • User Authentication • Web Development
 </tr>
 </table>
 
-### 🌾 KrushiVani
-
-An AI-powered farming assistant designed to help banana farmers access agricultural information in their regional language.
-
-- 💬 Marathi chatbot for farming-related queries.
-- 🎙️ Voice input and output for accessible communication.
-- 🌿 Banana leaf disease detection using image scanning.
-- 🌦️ Weather information and farming guidance.
-
-[Explore KrushiVani →](https://github.com/bhushan-rajput18/KrushiVani)
-
-### 🏡 Airbnb-Clone — Major Project
-
-A web application inspired by Airbnb, designed to explore property listings and accommodation experiences.
-
-- 🏠 Property listing and browsing.
-- 🔐 User authentication and listing management.
-- 🌐 Web application with a responsive user interface.
-
-[Explore Airbnb-Clone →](https://github.com/bhushan-rajput18/majorProject)
-
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=bhushan-rajput18&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhushan-rajput18&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bhushan-rajput18&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhushan-rajput18&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
