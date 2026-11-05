@@ -71,12 +71,13 @@ A web application inspired by Airbnb, focused on property listings and booking e
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhushan-rajput18&show_icons=true&theme=tokyonight" />
+  <img src="https://github-stats-extended.vercel.app/api?username=bhushan-rajput18&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhushan-rajput18&layout=compact&theme=tokyonight" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bhushan-rajput18&layout=compact&theme=tokyonight" />
 </p>
+
 
 ---
 
