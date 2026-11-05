@@ -1,6 +1,4 @@
 
-<!-- PROFILE HEADER -->
-
 <h1 align="center">Hi 👋, I'm Bhushan</h1>
 
 <h3 align="center">
@@ -8,24 +6,19 @@
 </h3>
 
 <p align="center">
-  Passionate about coding, problem-solving, and building
-  real-world projects.
+  Passionate about coding, problem-solving, and building real-world projects.
 </p>
-
-<!-- SOCIAL LINKS -->
 
 <p align="center">
   <a href="https://github.com/bhushan-rajput18">
-    <img height="30" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/">
-    <img height="30" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
-
-<!-- ABOUT ME -->
 
 ## 👨‍💻 About Me
 
@@ -38,19 +31,24 @@
 
 ---
 
-<!-- TECH STACK -->
-
 ## 🛠️ Languages and Technologies
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nodejs,express,mongodb,git,github,vscode" />
 </p>
 
 ---
 
-<!-- PROJECTS -->
-
 ## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/bhushan-rajput18/Krushivani">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhushan-rajput18&repo=Krushivani&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/bhushan-rajput18/Airbnb-Clone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhushan-rajput18&repo=Airbnb-Clone&theme=tokyonight" />
+  </a>
+</p>
 
 ### 🌾 KrushiVani
 
@@ -60,17 +58,15 @@ An AI-powered farming assistant designed to help banana farmers.
 - Banana leaf disease detection.
 - Farming guidance and weather information.
 
-### 🎮 Tic-Tac-Toe
+### 🏡 Airbnb-Clone
 
-A browser-based game built using HTML, CSS, and JavaScript.
+A web application inspired by Airbnb, focused on property listings and booking experiences.
 
-### ✅ To-Do List
-
-A simple task management application built with web technologies.
+- Property listing and browsing functionality.
+- User authentication and listing management.
+- Responsive interface for a smooth user experience.
 
 ---
-
-<!-- GITHUB STATS -->
 
 ## 📊 GitHub Stats
 
