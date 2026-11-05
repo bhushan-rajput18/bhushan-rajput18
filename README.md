@@ -36,8 +36,6 @@
 
 ---
 
-🚀 Featured Projects
-
 <h2 align="center">🚀 Featured Projects</h2>
 
 <table>
@@ -79,6 +77,33 @@ Property Listings • User Authentication • Web Development
 </td>
 </tr>
 </table>
+
+## Explore Projects Repo 
+🌾 KrushiVani
+
+An AI-powered farming assistant designed to help banana farmers access agricultural information in their regional language.
+
+💬 Marathi chatbot for farming-related queries.
+
+🎙️ Voice input and output for accessible communication.
+
+🌿 Banana leaf disease detection using image scanning.
+
+🌦️ Weather information and farming guidance.
+
+Explore KrushiVani →
+
+🏡 Airbnb-Clone — Major Project
+
+A web application inspired by Airbnb, designed to explore property listings and accommodation experiences.
+
+🏠 Property listing and browsing.
+
+🔐 User authentication and listing management.
+
+🌐 Web application with a responsive user interface.
+
+Explore Airbnb-Clone →
 
 ---
 
