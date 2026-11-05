@@ -38,14 +38,47 @@
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/bhushan-rajput18/KrushiVani">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhushan-rajput18&repo=KrushiVani&theme=tokyonight" alt="KrushiVani Repository"/>
-  </a>
-  <a href="https://github.com/bhushan-rajput18/majorProject">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhushan-rajput18&repo=majorProject&theme=tokyonight" alt="Airbnb Clone Repository"/>
-  </a>
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+<h3>🌾 KrushiVani</h3>
+
+<p>
+AI-powered farming assistant for banana farmers.
 </p>
+
+<p>
+Marathi chatbot • Voice Assistant • Disease Detection
+</p>
+
+<a href="https://github.com/bhushan-rajput18/KrushiVani">
+<img src="https://img.shields.io/badge/View_Project-2EA44F?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+<h3>🏡 Airbnb-Clone</h3>
+
+<p>
+A web application inspired by Airbnb for exploring property listings.
+</p>
+
+<p>
+Property Listings • User Authentication • Web Development
+</p>
+
+<a href="https://github.com/bhushan-rajput18/majorProject">
+<img src="https://img.shields.io/badge/View_Project-2EA44F?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 ### 🌾 KrushiVani
 
@@ -73,11 +106,11 @@ A web application inspired by Airbnb, designed to explore property listings and 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhushan-rajput18&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=bhushan-rajput18&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhushan-rajput18&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bhushan-rajput18&layout=compact&theme=tokyonight" />
 </p>
 
 ---
