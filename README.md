@@ -36,7 +36,7 @@
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">🚀 Explore Projects</h2>
 
 <table>
 <tr>
@@ -45,68 +45,53 @@
 <h3>🌾 KrushiVani</h3>
 
 <p>
-AI-powered farming assistant for banana farmers.
+AI-powered farming assistant designed to help banana farmers access agricultural information in their regional language.
 </p>
 
-<p>
-Marathi chatbot • Voice Assistant • Disease Detection
+<p align="left">
+💬 Marathi chatbot for farming-related queries.<br/>
+🎙️ Voice input and output for accessible communication.<br/>
+🌿 Banana leaf disease detection using image scanning.<br/>
+🌦️ Weather information and farming guidance.
 </p>
 
 <a href="https://krushivani.onrender.com/">
-<img src="https://img.shields.io/badge/View_Project-2EA44F?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Live_Demo-2EA44F?style=for-the-badge&logo=google-chrome&logoColor=white" alt="KrushiVani Live Demo"/>
+</a>
+
+<a href="https://github.com/bhushan-rajput18/KrushiVani">
+<img src="https://img.shields.io/badge/Explore_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="KrushiVani Repository"/>
 </a>
 
 </td>
 
 <td width="50%" align="center">
 
-<h3>🏡 Airbnb-Clone</h3>
+<h3>🏡 Airbnb-Clone — Major Project</h3>
 
 <p>
-A web application inspired by Airbnb for exploring property listings.
+A web application inspired by Airbnb, designed to explore property listings and accommodation experiences.
 </p>
 
-<p>
-Property Listings • User Authentication • Web Development
+<p align="left">
+🏠 Property listing and browsing.<br/>
+🔐 User authentication and listing management.<br/>
+🌐 Web application with a responsive user interface.
 </p>
 
 <a href="https://air-bnb-clone-xbgd.onrender.com/">
-<img src="https://img.shields.io/badge/View_Project-2EA44F?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Live_Demo-2EA44F?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Airbnb Clone Live Demo"/>
+</a>
+
+<a href="https://github.com/bhushan-rajput18/majorProject">
+<img src="https://img.shields.io/badge/Explore_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Airbnb Clone Repository"/>
 </a>
 
 </td>
 </tr>
 </table>
 
-## Explore Projects Repo 
-🌾 KrushiVani
-
-An AI-powered farming assistant designed to help banana farmers access agricultural information in their regional language.
-
-💬 Marathi chatbot for farming-related queries.
-
-🎙️ Voice input and output for accessible communication.
-
-🌿 Banana leaf disease detection using image scanning.
-
-🌦️ Weather information and farming guidance.
-
-Explore KrushiVani →
-
-🏡 Airbnb-Clone — Major Project
-
-A web application inspired by Airbnb, designed to explore property listings and accommodation experiences.
-
-🏠 Property listing and browsing.
-
-🔐 User authentication and listing management.
-
-🌐 Web application with a responsive user interface.
-
-Explore Airbnb-Clone →
-
 ---
-
 
 ## 📊 GitHub Stats
 
@@ -117,7 +102,6 @@ Explore Airbnb-Clone →
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bhushan-rajput18&layout=compact&theme=tokyonight" />
 </p>
-
 
 ---
 
